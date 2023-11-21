@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78943808873",
+    "project_id": "prueba-android-be50d",
+    "storage_bucket": "prueba-android-be50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78943808873:android:4afd0d16d4f351ac85e1f8",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYc5PP1dQu9Lw_OsHgBJmgQWbCCXVGyL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
